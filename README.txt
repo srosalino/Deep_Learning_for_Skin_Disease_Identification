@@ -1,4 +1,4 @@
-***Overview**
+**Overview**
 
 In the realm of medical diagnostics, precision and efficiency are crucial, particularly in dermatology
 where visual assessment is fundamental. This project harnesses the power of Deep Learning to enhance
