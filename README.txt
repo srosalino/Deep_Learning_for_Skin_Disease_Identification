@@ -1,3 +1,18 @@
+***Overview**
+
+In the realm of medical diagnostics, precision and efficiency are crucial, particularly in dermatology
+where visual assessment is fundamental. This project harnesses the power of Deep Learning to enhance
+the Accuracy of skin disease classification, a critical advancement given the subtle distinctions between
+various skin conditions. Utilizing advanced convolutional neural networks, specifically pre-trained models
+like DenseNet, VGG, and ResNet, this study aims to automate the analysis of dermatological images,
+offering a robust tool to aid healthcare professionals.
+The integration of Gradient-weighted Class Activation Mapping (Grad-CAM) provides further insights
+by highlighting key areas in images that influence the model’s predictions, thus adding a layer of inter
+pretability to the AI’s decision-making process. Through model training and validation, coupled with
+extensive hyperparameter optimization using Optuna, this project strives to bridge the gap between clinical dermatology and artificial intelligence, potentially transforming diagnostic procedures by providing
+swift, accurate, and interpretable results.
+
+
 images 					-> Folder containing every image from the Fitzpatrick17k dataset
 
 
